@@ -5,21 +5,12 @@ A simple C program to add two times together, handling overflow for minutes and 
 How to Run
 
     Clone the repository:
-    bash
-    Copy
-
     git clone https://github.com/your-username/time-calculator.git
     cd time-calculator
 
     Compile the program:
-    bash
-    Copy
-
+    
     gcc timecalc.c -o timecalc
-
-    Run the program:
-    bash
-    Copy
 
     ./timecalc
 
@@ -27,7 +18,7 @@ How to Run
 
 Requirements
 
-    A C compiler (e.g., gcc).
+    A C compiler (e.g., gcc)
 
 Contributing
 
